@@ -5,7 +5,7 @@ class Main{
 		int numbers[]={1,2,3,4,5,6,7,8,9,10};
 		//added index which starts at 1, so everything will be printed except the 1.
 		for(int index=1; index < numbers.length; index++){
-			//we can add all our numbers in the idnex/length together to get the sum aswell
+
 			System.out.println(numbers[index]);
 			
 		
